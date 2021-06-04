@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * PROJECT LICENSE
  *
@@ -37,6 +38,8 @@
  *
  */
 
+=======
+>>>>>>> parent of 0907071 (Update DetailsActivity.java)
 package eu.laramartin.inventorymanager;
 
 import android.Manifest;
